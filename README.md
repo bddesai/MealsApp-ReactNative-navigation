@@ -1,7 +1,9 @@
 # MealsApp-ReactNative-navigation
 
 Note:  This app is build for learning purpose from the React Native tutorial on Udemy 
+
 Course: Use React Native and your React knowledge to build native iOS and Android Apps
+
 Instructor: Maximilian Schwarzmüller
 
 Prerequisites 
